@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Friendr_2</string>
+    <string name="hello_first_comment">Hello First Comment</string>
 </resources>
